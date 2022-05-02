@@ -408,7 +408,7 @@ contexts:
   asm-block:
     - match: 'asm'
       scope: keyword.declaration
-      push: SublimePEPEAsm/PEPEasm.sublime-syntax
+      push: PEPEasm.sublime-syntax
       with_prototype:
         - match: '}'
           pop: true
