@@ -408,7 +408,7 @@ contexts:
   asm-block:
     - match: 'asm'
       scope: keyword.declaration
-      push: PEPEasm.sublime-syntax
+      push: Packages/PEPEasm/PEPEasm.sublime-syntax
       with_prototype:
         - match: '}'
           pop: true
@@ -1342,3 +1342,5 @@ contexts:
               scope: punctuation.definition.string.end.c
               pop: true
     - include: preprocessor-practical-workarounds
+
+
