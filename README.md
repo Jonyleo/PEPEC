@@ -10,7 +10,7 @@ Sublime text package for syntax highlighting C code with PEPE assembly blocks
 # Requirements
 - Sublime Text (Tested on version 4)
 - Package Control
-- (PEPEAsm package)[https://github.com/Jonyleo/PEPEAsm]
+- [PEPEAsm package](https://github.com/Jonyleo/PEPEAsm)
 
 # Installation Guide 
 - Open Sublime Text
